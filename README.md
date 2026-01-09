@@ -1,2 +1,2 @@
-# qa-engineer-projects
+# qa-engineer-diplom
 from yandex practicum
